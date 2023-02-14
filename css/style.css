@@ -1,0 +1,53 @@
+body {
+  /*  font-family: 'Roboto Slab', serif; */
+  font-family: arial;
+}
+.container h3 {
+  color: #aaaaaa;
+  padding: 30px 0;
+  font-size: 30px;
+  font-weight: 700;
+}
+.container {
+  padding: 20px;
+  /* border-bottom: 1px solid #999; */
+  font-size: 25px;
+}
+.bottom-liner {
+  border-bottom: 1px solid #999;
+  padding-bottom: 20px;
+}
+.book-contant {
+  background-color: #eeeeee;
+}
+.container h2 {
+  font-weight: 600;
+  padding-top: 30px;
+}
+.btn:hover {
+  box-shadow: 2px 5px 3px 0px #888;
+}
+.btn {
+  padding: 10px 15px;
+  margin: 15px 5px;
+  border-radius: 5px;
+  max-width: fit-content;
+}
+label {
+  font-size: 20px;
+  font-weight: 600;
+}
+footer p {
+  color: #aaabad;
+  padding-left: 120px;
+  font-weight: 600;
+  font-size: 18px;
+}
+#addBook {
+  background-color: #eeeeee;
+}
+a {
+  text-decoration: none;
+}
+
+
